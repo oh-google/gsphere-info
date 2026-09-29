@@ -1,0 +1,1 @@
+This is the page used for users' profiles. Selecting the User Page tab in the navigation bar leads to your user page. The top of a user page shows their profile picture, username, and below shows the user's favorite communities (if set to public) and posts.
