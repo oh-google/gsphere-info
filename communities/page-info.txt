@@ -1,0 +1,3 @@
+This tab is for discovering and opening communities. When in a community, you can make text or handwritten posts, as well as attach an image (if possible) and mark the post as spoilers before posting.
+
+This acts as the landing page for new users (who have finished setting up their account), while the Activity Feed tab acts as returning users' landing page.
