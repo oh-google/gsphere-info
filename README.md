@@ -1,2 +1,1 @@
-# gsphere-info
-Information for Emergent to build GameSphere
+# This repo contains information for Emergent to build the GameSphere app. DO NOT DOWNLOAD THIS!
